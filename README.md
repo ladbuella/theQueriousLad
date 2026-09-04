@@ -14,7 +14,7 @@ Right now I'm making my way into **security**, not because it's trendy, but beca
 
 ## Currently working through
 
-**[palo-alto-app-id-lab](https://github.com/theQueriousLAD/palo-alto-app-id-lab)** — a hands-on lab demonstrating zone-based firewall design and Layer 7 Application Identification on a Palo Alto PA-VM firewall.
+**[palo-alto-app-id-lab](https://github.com/ladbuella/palo-alto-app-id-lab)** — a hands-on lab demonstrating zone-based firewall design and Layer 7 Application Identification on a Palo Alto PA-VM firewall.
 
 ## A bit about how I work
 
