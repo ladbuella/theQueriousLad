@@ -1,4 +1,4 @@
-# theQueriousLAD
+# theQueriousLad
 
 # Hey, I'm LAD 👋
 
